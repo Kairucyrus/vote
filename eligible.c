@@ -15,7 +15,7 @@ void eligible_or_not(int age)
 	return;
 	}
 	else if (age==17)
-	{printf("Aai, we ngoja, ungali mchanga.");
+	{printf("Please try again next year.");
 	return;
 	}
 	else
